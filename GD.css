@@ -1,0 +1,35 @@
+p.one{
+	color: greenyellow;font-size: 20px;
+	border-color: green;
+	border-width: all;
+	border-style: double;
+	font-style: italic;
+}
+h1{
+	color: red;font-size: 30px;text-align: center;
+}
+div{
+	text-align: center;
+}
+p.two{
+	color: darkred;text-align: left;border-style: double;border-width: 15px;
+	border-color: skyblue;font-size: 30px;
+}
+body{
+	background-image: url(https://img95.699pic.com/photo/40151/9222.gif_wh860.gif)
+}
+.V{
+	float: right;font-size: 30px;color: white;font-style: italic;
+}
+.X{
+	overflow: hidden;
+}
+.X a{
+	float: center;
+    padding: 15px;
+    text-decoration: none;
+    font-size: 30px;
+}
+.X a:hover{
+	color: white;
+}

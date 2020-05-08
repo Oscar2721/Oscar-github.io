@@ -1,0 +1,47 @@
+.one
+{
+  font-size:50px;color:red;text-align:center;
+}
+p.two
+{
+  font-size:20px;color:purple;font-style:italic;border-style:double;background-color: lightblue;
+}
+p.three{
+  font-size:15px;color:blueviolet;border-style:dashed;background-color:cyan;margin:12px;padding:10px;
+  font-style:italic;
+}
+#four{
+  color:limegreen;border-style:double;font-style:25px;font-style:italic;background-color: darkviolet;
+}
+body{
+	background-image: url(https://imgboys1.yohobuy.com/contentimg/2019/12/06/18/01d72612bff5664627d91e1e07177b2ea5.jpg);
+}
+a{
+	color: yellow;
+}
+.big{
+	font-size: 20px;border-style: double;border-width: 15px;
+}
+.small{
+	font-size: 20px;border-style: double;border-width: 15px;
+}
+div{
+	text-align: center;
+}
+.X{
+	background-color: black;
+	overflow: hidden;
+}
+.X a{
+	float: center;
+    padding: 15px;
+    text-decoration: none;
+    font-size: 15px;
+}
+.X a:hover{
+	background-color: darkviolet;
+	color: white;
+}
+.three{
+      text-align: right;
+}

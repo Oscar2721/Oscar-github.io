@@ -1,0 +1,30 @@
+h1{
+	color: white;text-align: center;font-size: 50px;font-style: italic;
+}
+p.one{
+	color: skyblue;font-size: 20px;border-style: double;
+
+}
+li{
+	color: green;font-size: 15px;padding: 15px;
+}
+body{
+	background-image: url(https://data.whicdn.com/images/228765870/original.jpg);
+}
+a{
+	color: yellow;font-size: 30px;font-style: italic;float: right;
+}
+.X{
+	background-color: black;
+	overflow: hidden;
+}
+.X a{
+	float: left;
+    padding: 15px;
+    text-decoration: none;
+    font-size: 20px;
+}
+.X a:hover{
+	background-color: darkviolet;
+	color: white;
+}
